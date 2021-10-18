@@ -1,0 +1,23 @@
+.swiper-container img{
+	width:50%;
+	height: auto;
+}
+a{
+	text-decoration: none;
+	color: #fff;
+	font-size: 16px;
+}
+
+/* 头部 */
+.head h1{
+	text-align: center;
+}
+.guide .row{
+	background-color: #007AFF;
+	margin-bottom: 50px;
+	display: flex;
+}
+.guide .col{
+	flex: 1;
+	text-align: center;
+}
